@@ -4,8 +4,38 @@ id,name,city,lat,lng
 3,Saint George Hospital University Medical Center,Beirut,33.89380,35.50800
 4,Hôtel-Dieu de France,Beirut,33.88196,35.51834
 5,Bellevue Medical Center,Mansourieh,33.8695,35.5510
-6,Mount Lebanon Hospital,Baabda,33.8333,35.5130
+6,Mount Lebanon Hospital & Medical Center,Baabda,33.8333,35.5130
 7,Makassed General Hospital,Beirut,33.8872,35.4971
 8,Najjar Hospital,Beirut,33.8961,35.4900
 9,Beirut General Hospital,Beirut,33.8915,35.4994
-10,Tripoli Governmental Hospital,Tripoli,34.4363,35.8493
+10,Clemenceau Medical Center,Beirut,33.8862,35.4851
+11,LAU Medical Center - Rizk Hospital,Beirut,33.8877,35.5132
+12,Al Hayat Hospital,Beirut,33.8769,35.5010
+13,New Mazloum Hospital,Tripoli,34.4338,35.8292
+14,Nini Hospital,Tripoli,34.4365,35.8434
+15,Al Shifaa Hospital,Tripoli,34.4325,35.8320
+16,Monla Hospital,Tripoli,34.4400,35.8440
+17,Tripoli Governmental Hospital,Tripoli,34.4363,35.8493
+18,Saida Governmental Hospital,Saida,33.5609,35.3723
+19,Hammoud Hospital University Medical Center,Saida,33.5602,35.3796
+20,Ragheb Harb Hospital,Nabatieh,33.3786,35.4835
+21,Nabatieh Governmental Hospital,Nabatieh,33.3780,35.4890
+22,Jezzine Governmental Hospital,Jezzine,33.5410,35.5820
+23,Marjaayoun Governmental Hospital,Marjaayoun,33.3595,35.5860
+24,Zahle Governmental Hospital,Zahle,33.8465,35.9071
+25,Tel Chiha Hospital,Zahle,33.8479,35.8992
+26,Rayak Hospital,Rayak,33.8508,35.9833
+27,Baalbek Governmental Hospital,Baalbek,34.0060,36.2110
+28,Dar Al Amal University Hospital,Baalbek,34.0105,36.2165
+29,Hasbaya Governmental Hospital,Hasbaya,33.3980,35.6850
+30,Bint Jbeil Governmental Hospital,Bint Jbeil,33.1180,35.4330
+31,Tyre Governmental Hospital,Tyre,33.2730,35.1960
+32,Jabal Amel Hospital,Tyre,33.2760,35.2070
+33,Sakr Hospital,Jdeidet Marjeyoun,33.3660,35.5970
+34,Keserwan Medical Center,Ajaltoun,33.9950,35.6690
+35,Notre Dame du Liban Hospital,Jounieh,33.9760,35.6200
+36,Bikfaya Hospital,Bikfaya,33.9100,35.6730
+37,Halba Governmental Hospital,Halba,34.5430,36.0790
+38,Miniyeh Governmental Hospital,Miniyeh,34.4530,35.9220
+39,Serhal Hospital,Matn,33.9115,35.5955
+40,Al Zahraa Hospital University Medical Center,Beirut,33.8722,35.5015
